@@ -1,0 +1,24 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "Reload through AdvanceProxy"
+   },
+   "description": "Quickly reload pages with Fast Advance Proxy.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCuBnkjFQ2JFyPeoE2LLApRX9GFhdRdvgchH9j3J8UwT3dnwMTUi2qeCwezeC4in8Ao/HyKSsVYL8Wa3XSw7FiUxsy8uou18M40D1o7PotTVQzGyJjFjF1E83L/Ilxs1qtFrCZ9XyD6VLvXIpAjEZmLK8mmcmA+QuiSnElObQOY5wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "21",
+   "name": "Advance Proxy Redirect",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus", "storage", "https://shahzeb.xyz/proxies.json" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "14"
+}
