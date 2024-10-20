@@ -1,8 +1,7 @@
 Chrome AdvanceProxy Redirect
 =======================
 
-By: Mian Shahzeb <shahzeb@yandex.com>
-Updates By: Mian Shahzeb <https://shahzeb.xyz/>
+By: TRC 
 Github: https://github.com/MianShahzeb/advance-proxy
 
 
